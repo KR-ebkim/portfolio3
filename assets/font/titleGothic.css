@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "titleGothic1";
+  src: url('titleGothic1.woff2') format('woff2')
+}
+
+@font-face {
+  font-family: "titleGothic2";
+  src: url('titleGothic2.woff2') format('woff2')
+}
+@font-face {
+  font-family: "titleGothic3";
+  src: url('titleGothic3.woff2') format('woff2')
+}
+@font-face {
+  font-family: "titleGothic4";
+  src: url('titleGothic4.woff2') format('woff2')
+}
+@font-face {
+  font-family: "titleGothic5";
+  src: url('titleGothic5.woff2') format('woff2')
+}
+
