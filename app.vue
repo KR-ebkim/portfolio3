@@ -69,7 +69,10 @@ const checkRoute = (value) => {
 <template>
 	<v-app style="font-family:titleGothic1" >
 		<v-app-bar color="black" height="60" >
-
+			<v-btn to="/">
+				<v-icon size="30">mdi-home</v-icon>
+			</v-btn>
+			
 			<v-spacer></v-spacer>
 			
 			<v-btn id="LangKR" size="lg"><v-icon class="mr-1" color="white">mdi-earth</v-icon>KR</v-btn>
