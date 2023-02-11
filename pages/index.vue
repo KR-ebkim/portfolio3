@@ -57,7 +57,7 @@ const slide = ref([
       <SwiperSlide>
         <v-card class="BG rounded-0" flat>
           <v-img :src="SlideImage1" height="100%" cover>
-            <v-card class="Slide" height="1080px" color="transparent" flat>
+            <v-card class="Slide" height="100%" color="transparent" flat>
                 <v-card class="textGroup1" width="100%" color="transparent" flat>
                   <span class="category" style="font-weight: 700; color:#A755FF;">SPORTS BOOK</span>
                   <v-sheet class="title" height="215" color="transparent"><span class="title">#스포츠북<br>그 이상 차별화된
@@ -86,7 +86,7 @@ const slide = ref([
       <SwiperSlide>
         <v-card class="BG rounded-0" flat>
           <v-img :src="SlideImage2" height="100%" cover>
-            <v-card class="Slide" height="1080px" color="transparent" flat>
+            <v-card class="Slide" height="100%" color="transparent" flat>
               <v-row>
                 <v-card class="textGroup2" width="100%" color="transparent" flat>
                   <span class="category" style="font-weight: 700; color:#F015A7;">LIVE CASINO</span>
@@ -113,7 +113,7 @@ const slide = ref([
       <SwiperSlide>
         <v-card class="BG rounded-0" flat>
           <v-img :src="SlideImage3" height="100%" cover>
-            <v-card class="Slide" height="1080px" color="transparent" flat>
+            <v-card class="Slide" height="100%" color="transparent" flat>
               <v-row>
                 <v-card class="textGroup1" width="100%" color="transparent" flat>
                   <span class="category" style="font-weight: 700; color:#1896F5;">SLOTS</span>
@@ -139,7 +139,7 @@ const slide = ref([
       <SwiperSlide>
         <v-card class="BG rounded-0" flat>
           <v-img :src="SlideImage4" height="100%" cover>
-            <v-card class="Slide" height="1080px" color="transparent" flat>
+            <v-card class="Slide" height="100%" color="transparent" flat>
               <v-row>
                 <v-card class="textGroup2" width="100%" color="transparent" flat>
                   <span class="category" style="font-weight: 700; color:#F015A7;">E-SPORTS</span>
@@ -165,7 +165,7 @@ const slide = ref([
       <SwiperSlide>
         <v-card class="BG rounded-0" flat>
           <v-img :src="SlideImage5" height="100%" cover>
-            <v-card class="Slide" height="1080px" color="transparent" flat>
+            <v-card class="Slide" height="100%" color="transparent" flat>
               <v-row>
                 <v-card class="textGroup1" width="100%" color="transparent" flat>
                   <span class="category" style="font-weight: 700; color:#A755FF;">PREMIUM GAMES</span>
@@ -192,7 +192,7 @@ const slide = ref([
       <SwiperSlide>
         <v-card class="BG rounded-0" flat>
           <v-img :src="SlideImage6" height="100%" cover>
-            <v-card class="Slide" height="1080px" color="transparent" flat>
+            <v-card class="Slide" height="100%" color="transparent" flat>
               <v-row>
                 <v-card class="textGroup2" width="100%" color="transparent" flat>
                   <span class="category" style="font-weight: 700; color:#1896F5;">PACKAGES</span>
